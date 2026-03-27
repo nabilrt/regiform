@@ -107,7 +107,7 @@
 
             </com.google.android.material.textfield.TextInputLayout>
 
-            <Button
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/button_submit"
                 style="@style/Widget.AppCompat.Button.Colored"
                 android:layout_width="match_parent"
