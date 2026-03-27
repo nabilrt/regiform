@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegiForm</string>
+    <string name="registration_text">Formulaire d\'inscription</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="email">E-mail</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="submit_form">Soumettre le formulaire</string>
+    <string name="title_activity_preview">Aperçu</string>
+    <string name="job_title">Intitulé du poste</string>
+    <string name="thanks_for_registration">Merci pour votre inscription !</string>
+    <string name="divider"> :</string>
+    <string name="full_name">Nom complet</string>
+    <string name="registration_details">Détails de l\'inscription</string>
+</resources>

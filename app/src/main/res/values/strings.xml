@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RegiFrom</string>
+    <string name="registration_text">Registration Form</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="submit_form">Submit Form</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="job_title">Job Title</string>
+    <string name="thanks_for_registration">Thanks For Registration!</string>
+    <string name="divider">:</string>
+    <string name="full_name">Full Name</string>
+    <string name="registration_details">Registration Details</string>
+</resources>
